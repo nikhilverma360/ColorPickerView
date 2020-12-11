@@ -1,6 +1,6 @@
 @@ -1,2 +1,82 @@
 # ColorPickerView
-Color Picker Library For Andriod
+Color Picker Library For Android
 [![](https://jitpack.io/v/nikhilverma360/ColorPickerView.svg)](https://jitpack.io/#nikhilverma360/ColorPickerView)
 ## Brief introduction.
 The following features are mainly implemented:
